@@ -12,4 +12,3 @@ function createRecipe(title, portions, ingredients) {
 const myFavRecipe = createRecipe("Pizza", 3, ["ham", "cheese","ketchup"])
 console.log(myFavRecipe);
 
-//Multumesc pentru atentie
