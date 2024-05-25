@@ -19,3 +19,5 @@ const recipe ={
     ingredients: ["ham", "cheese","ketchup"],
 }
 console.log(recipe);
+
+//Multumesc pentru atentie
